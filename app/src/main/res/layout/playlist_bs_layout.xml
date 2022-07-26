@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_light">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:textColor="@color/grey_light"
+        android:text="Folder"
+        android:id="@+id/playlist_folder_name"
+        android:textSize="18sp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_below="@id/playlist_folder_name"
+        android:id="@+id/playlist_rv">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</RelativeLayout>

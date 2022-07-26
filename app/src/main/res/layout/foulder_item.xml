@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:padding="5dp"
+    android:background="?attr/selectableItemBackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@color/black_light">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginEnd="15dp"
+            android:src="@drawable/ic_folder"
+
+            android:layout_gravity="center_vertical"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/folderName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Folder name"
+                android:maxLines="1"
+                android:textSize="17sp"
+                android:textColor="@color/grey_light"/>
+            <TextView
+                android:id="@+id/folderPath"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Folder path"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:textColor="@color/grey_dim"/>
+            <TextView
+                android:id="@+id/countOfFiles"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5 videos"
+                android:textSize="17sp"
+                android:textColor="@color/grey_dim"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

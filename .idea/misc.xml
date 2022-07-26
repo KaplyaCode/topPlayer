@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.136" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/circle.xml" value="0.136" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/ic_more.xml" value="0.224" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/ic_scrubber.xml" value="0.224" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/ripple_circle.xml" value="0.136" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/shape.xml" value="0.136" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/drawable/splash_background.xml" value="0.25" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/activity_main.xml" value="0.2630208333333333" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/activity_video_list.xml" value="0.1" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/activity_video_player.xml" value="0.2630208333333333" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/custom_playback_view.xml" value="0.33" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/foulder_item.xml" value="0.33" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/playback_icons_layout.xml" value="0.67" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/playlist_bs_layout.xml" value="0.25" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/splash_screen.xml" value="0.2630208333333333" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/video_bs_layout.xml" value="0.2630208333333333" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/layout/video_item.xml" value="0.33" />
+        <entry key="..\:/Programing/AndroidStudio(Java)/TopPlayer/app/src/main/res/menu/folder_menu.xml" value="0.2630208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
